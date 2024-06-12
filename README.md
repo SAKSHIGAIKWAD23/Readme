@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saikshi Gaikwad</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Gaikwad</h1>
 <p align="center" dir="auto">
   <strong>Highly motivated individual seeking a challenging position within an organization where I can leverage my skills to contribute to both company growth and my personal development. Known for adaptability and thriving in challenging situations, I am eager to make a valuable impact in your esteemed organization.</strong>
 </p>
