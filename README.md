@@ -4,10 +4,10 @@
 </p>
 📫 How to reach me saikshigaikwad@mitaoe.ac.in
 
-📄 Know about my experiences https://drive.google.com/file/d/13kDe9XPHv4QHV9SJ0iQ3kfLcLvAZrAqk/view?usp=drive_link
+📄 Know about my experiences https://drive.google.com/file/d/1h8nybyy8t1oKnRpgZ5Cvr0Bdi4g2Gqvh/view?usp=drivesdk
 
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/pooja-bhore-424a79257/" rel="nofollow">
+  <a href="https://www.linkedin.com/in/sakshi-gaikwad-489324265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://raw.githubusercontent.com/VaibhavSaini19/VaibhavSaini19/master/assets/linkedin.svg" alt="Linkedin image" style="max-width: 100%;">
   </a>   
 </p>
